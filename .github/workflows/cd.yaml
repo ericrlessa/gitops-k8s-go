@@ -43,4 +43,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.TOKEN_GITHUB }}
-        repository: ${{ secrets.DOCKER_USERNAME }}/gitops-k8s-go
+        repository: ericlessa/gitops-k8s-go
