@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: ericlessa/gitops-k8s-go
-  newTag: 19a056863dac11201ab0432cb4e33f50389861a6
+  newTag: bbc5132f5b2e5afd10252138eceb8507ec3f27f1
